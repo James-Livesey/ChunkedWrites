@@ -1,0 +1,14 @@
+{
+    "name": "chunkedwrites",
+    "version": "1.0.0",
+    "description": "Demo of sending chunked HTTP data via Express.js.",
+    "main": "main.js",
+    "scripts": {
+        "start": "node main.js"
+    },
+    "author": "@James-Livesey",
+    "license": "ISC",
+    "dependencies": {
+        "express": "^4.17.1"
+    }
+}
